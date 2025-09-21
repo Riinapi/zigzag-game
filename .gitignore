@@ -26,3 +26,14 @@ sysinfo.txt
 *.exe
 *.app
 *.xcodeproj
+
+# VS generated
+.vs/
+
+# Unity user-specific
+UserSettings/
+
+# Unity temp/debug
+*.utmp
+*BurstDebugInformation_DoNotShip/
+tempburstlibs/

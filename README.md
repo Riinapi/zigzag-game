@@ -14,5 +14,5 @@ Pelaaja liikkuu siksak-reittiä pitkin. Tarkoitus on pysyä reitillä mahdollisi
 Repo sisältää pelin lähdekoodin. Koodi löytyy erityisesti Assets/Scripts/ -kansiosta.  
 
 ## Screenshots
-<img src="screenshots/zigzag.png" width="200" />
+<img src="Screenshots/zigzag.png" width="200" />
 

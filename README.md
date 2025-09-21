@@ -13,6 +13,6 @@ Pelaaja liikkuu siksak-reittiä pitkin. Tarkoitus on pysyä reitillä mahdollisi
 ## Projekti
 Repo sisältää pelin lähdekoodin. Koodi löytyy erityisesti Assets/Scripts/ -kansiosta.  
 
-## Screenshot
-![ZigZag Screenshot](Screenshots/zigzag.png)
+## Screenshots
+<img src="screenshots/zigzag.png" width="200" />
 

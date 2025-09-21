@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\riina\\Zig Zag peli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\riina\\Zig Zag peli\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|c:\\riina\\zig zag peli\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\spawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\pallonliike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pallonliike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\pelimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pelimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\pistemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pistemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\kameraseuranta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kameraseuranta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|C:\\riina\\Zig Zag peli\\assets\\scripts\\triggeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5395D5-92FF-6137-889A-623FA4E82A77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "URPPreprocessBuild.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Editor\\BuildProcessors\\URPPreprocessBuild.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:10:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliManager.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PeliManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PeliManager.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PeliManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PeliManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:24:40.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PisteManager.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PisteManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PisteManager.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PisteManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PisteManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:11:01.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:04:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawning.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\Spawning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\Spawning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:07:15.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Triggeri.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\Triggeri.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triggeri.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\Triggeri.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triggeri.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:48:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KameraSeuranta.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\KameraSeuranta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KameraSeuranta.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\KameraSeuranta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KameraSeuranta.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:02:30.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PallonLiike.cs",
+              "DocumentMoniker": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PallonLiike.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PallonLiike.cs",
+              "ToolTip": "C:\\riina\\Zig Zag peli\\Assets\\Scripts\\PallonLiike.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PallonLiike.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:25:23.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
